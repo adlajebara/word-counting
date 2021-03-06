@@ -9,7 +9,7 @@ The program can count words from a text file or fetch data directly from the web
 
 How to run it:
 ```bash
-python3 topmost.py eng_stopwords.txt <text file to analyze> n
+python3 topmost.py eng_stopwords.txt <text file or URL to analyze> n
 ```
 
 Example:

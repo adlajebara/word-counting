@@ -20,7 +20,7 @@ python3 topmost.py eng_stopwords.txt examples/article1.txt 20
 The last parameter n is the number of words to be printed.
 
 ## Files
-* The examples folder contains examples of text files to be analyzed
+* The examples folder contains examples of text files to be analysed
 * eng_stopwords.txt contains a list of English stop words
 * topmost.py contains the main function
 * wordfrequency.py contains the tokenize, word count and print functions

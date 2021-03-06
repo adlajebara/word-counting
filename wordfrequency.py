@@ -22,8 +22,9 @@ def tokenize(lines):
             elif line[char].isdigit():
                 end = char
                 while line[end].isdigit():
-                    if(end < len(line)):
-                        end = end + 1
+                    end = end + 1
+                    if end == len(line):
+                        break
 
                 wordlist.append(line[char:end].lower())
                 char = end - 1

@@ -5,7 +5,7 @@ This was the first lab assignment which focuses on a technique which can be foun
 
 
 ## How to run it
-The program can count words from a text file or fetch data directly from the web. The data to be analysed needs to be specified in the third argument.
+The program can count words from a text file or fetch data directly from the web (needs to have a .txt extension). The data to be analysed needs to be specified in the third argument.
 
 How to run it:
 ```bash

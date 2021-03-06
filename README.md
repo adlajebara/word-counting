@@ -26,4 +26,4 @@ The last parameter n is the number of words to be printed.
 * wordfrequency.py contains the tokenize, word count and print functions
 
 ## TO-DO
-Make it faster for larger files. 
+Make it faster for analysing larger files. 

@@ -24,3 +24,6 @@ The last parameter n is the number of words to be printed.
 * eng_stopwords.txt contains a list of English stop words
 * topmost.py contains the main function
 * wordfrequency.py contains the tokenize, word count and print functions
+
+## TO-DO
+Make it faster for larger files. 

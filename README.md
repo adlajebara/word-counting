@@ -18,3 +18,9 @@ python3 topmost.py eng_stopwords.txt examples/article1.txt 20
 ```
 
 eng_stopwords.txt contains a list of stop words, and <text to analyze> should contain files to be analyzed. The last parameter n is the number of words to be printed.
+
+## Files
+* The examples folder contains examples of text files to be analyzed.
+* eng_stopwords.txt contains a list of English stop words
+* topmost.py contains the main function
+* wordfrequency.py contains the tokenize, counting words and printing functions.

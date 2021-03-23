@@ -1,5 +1,5 @@
 # word-counting
-I wrote this code while taking a summer course at Chalmers university.
+I wrote this code as part of an assingemnt while taking a summer course in Python at Chalmers university.
 
 This assignment focuses on a technique which can be found in many algorithms that allow machines to understand human language. The code includes tokenization, how to split a running text into a sequence of words (tokens) and word counting, aggregate statistics for the frequencies of different words.
 
@@ -9,12 +9,12 @@ The program can count words from a text file or fetch data directly from the web
 
 How to run it:
 ```bash
-python3 topmost.py eng_stopwords.txt <text file or URL to analyze> n
+$ python3 topmost.py eng_stopwords.txt <text file or URL to analyze> n
 ```
 
 Example:
 ```bash
-python3 topmost.py eng_stopwords.txt examples/article1.txt 20
+$ python3 topmost.py eng_stopwords.txt examples/article1.txt 20
 ```
 
 The last parameter n is the number of words to be printed.

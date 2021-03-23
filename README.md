@@ -1,4 +1,4 @@
-# Word-Counting
+# word-counting
 I wrote this code while taking a summer course at Chalmers university.
 
 This assignment focuses on a technique which can be found in many algorithms that allow machines to understand human language. The code includes tokenization, how to split a running text into a sequence of words (tokens) and word counting, aggregate statistics for the frequencies of different words.

@@ -1,7 +1,7 @@
 # word-counting
 I wrote this code as part of an assingemnt while taking a summer course in Python at Chalmers university.
 
-This assignment focuses on a technique which can be found in many algorithms that allow machines to understand human language. The code includes tokenization, how to split a running text into a sequence of words (tokens) and word counting, aggregate statistics for the frequencies of different words.
+This assignment focuses on a technique which can be found in many algorithms that allow machines to understand human language. The code includes tokenization, how to split a running text into a sequence of words (tokens), word counting and aggregate statistics for the frequencies of different words.
 
 
 ## How to run it
